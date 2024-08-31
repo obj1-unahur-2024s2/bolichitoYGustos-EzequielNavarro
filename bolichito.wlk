@@ -17,7 +17,7 @@ import materiales.*
 // si brillan o no
 
 object bolichito {
-  var objetoEnVidriera = remera
+  var objetoEnVidriera = _cajita_
   var objetoEnMostrador = pelota
 
   method objetoEnVidriera(unObjeto){
